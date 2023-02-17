@@ -131,13 +131,13 @@ h2 {
 }
 
 h1 {
-  font-family: "SF Pro Rounded";
+  font-family: "Poppins";
   font-weight: bolder;
   letter-spacing: 2px;
 }
 
 #footer h3 {
-  font-family: "SF Pro Rounded";
+  font-family: "Poppins";
   font-weight: 600;
   @apply text-blu;
 }
